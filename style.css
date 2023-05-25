@@ -19,7 +19,7 @@ body{
     display: flex;
     flex-direction: column;
     position: absolute;
-    height: 200%;
+    height: 300%;
     width: 140%;
     overflow: hidden; 
     background: linear-gradient(360deg, violet 0%, indigo 16%, blue 33%, green 49%, yellow 65%, orange 82%, red 100%);
