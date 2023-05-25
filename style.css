@@ -15,8 +15,10 @@ body{
     overflow-x: hidden;
 }
 #website{
-    display:block;
-    margin:auto;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 #animation {
     display: flex;
