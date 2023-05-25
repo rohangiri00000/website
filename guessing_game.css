@@ -1,0 +1,11 @@
+#guess_game_heading{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+html{
+    height: 100vh;
+    background: linear-gradient(green, blue) ;
+}

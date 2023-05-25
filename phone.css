@@ -1,0 +1,80 @@
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li {
+    font-size: 1rem;
+}
+
+#navbar ul li a {
+    padding: 3px 5px;
+}
+
+#home {
+    height: 250px;
+}
+
+.home_heading{
+    font-size: 1.5rem;
+}
+
+.home_paragraph{
+    font-size: 0.9rem;
+}
+
+#about {
+    padding: 30px 10px;
+}
+#sub_about {
+    width: 300px;
+}
+.about_heading{
+    font-size: 1.4rem;
+}
+.about_paragraph{
+    font-size: 0.9rem;
+}
+.gallery_heading{
+    font-size: 1.5rem;
+}
+.creations_heading{
+    font-size: 1.5rem;
+}
+.creations_item1 li a,
+.creations_item2 li a {
+    font-size: 0.9rem;
+}
+#contact {
+    height: 300px;
+}
+#sub_contact h2{
+    font-size: 1.5rem;
+}
+.insta{
+    height: 20px;
+    width: 20px;
+    background-size: 20px 20px;
+}
+.whats{
+    height: 20px;
+    width: 20px;
+    background-size: 20px 20px;
+}
+.face{
+    height: 20px;
+    width: 20px;
+    background-size: 20px 20px;
+}
+.tele{
+    height: 20px;
+    width: 20px;
+    background-size: 20px 20px;
+}
+.call{
+    height: 25px;
+    width: 25px;
+    background-size: 25px 25px;
+}
+/* #call1 a{
+    font-size: 0.9rem;
+} */
