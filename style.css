@@ -14,7 +14,10 @@ html {
 body{
     overflow-x: hidden;
 }
-
+#website{
+    display:block;
+    margin:auto;
+}
 #animation {
     display: flex;
     flex-direction: column;
