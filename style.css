@@ -30,6 +30,7 @@ body{
     width: 140%;
     background: linear-gradient(360deg, violet 0%, indigo 16%, blue 33%, green 49%, yellow 65%, orange 82%, red 100%);
     background-position: center;
+    background-size: cover;
 }
 
 #ani_box {
