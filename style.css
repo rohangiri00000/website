@@ -11,9 +11,9 @@ html {
     
     scroll-behavior: smooth;
 }
-body{
+/* body{
     overflow-x: hidden;
-}
+} */
 #website{
     display:flex;
     flex-direction: column;
